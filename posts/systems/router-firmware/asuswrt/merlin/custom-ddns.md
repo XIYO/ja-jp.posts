@@ -39,7 +39,7 @@ Google Domainsを使用している間にSquarespaceに売却されました。G
 
 [DDNS設定](https://router.xiyo.dev/Advanced_ASUSDDNS_Content.asp)でServerをCustomに変更します。
 
-![DDNSオプション変更](/static/resources/custom-ddns-20240918105845255.png)
+![DDNSオプション変更](./assets/custom-ddns-20240918105845255.png)
 
 WANカテゴリのDDNS設定でServerオプションをCustomに変更します。
 
@@ -54,7 +54,7 @@ Cloudflareの[トークン発行](https://dash.cloudflare.com/profile/api-tokens
 
 発行後の結果：
 
-![トークン発行結果](/static/resources/custom-ddns-20240918105908541.png)
+![トークン発行結果](./assets/custom-ddns-20240918105908541.png)
 
 ## SETUP INADYN
 

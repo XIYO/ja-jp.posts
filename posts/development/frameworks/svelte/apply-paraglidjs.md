@@ -28,7 +28,7 @@ description: '新しい国際化ライブラリの'
 
 [Paraglide JS | inlang](https://inlang.com/m/gerre34r/library-inlang-paraglideJs)で説明する特徴は軽量、型安全、VS Code拡張機能提供などの他に、便利な特徴は「翻訳エディタ提供」です。
 
-![Paraglide JSのエディタ](/static/resources/apply-paraglidjs-20240918153234469.png)
+![Paraglide JSのエディタ](./assets/apply-paraglidjs-20240918153234469.png)
 > 開発システムがない外部でもエディタを通じて翻訳を提供できます。
 
 開発初期には韓国語のみで作成して素早い作業物を作り、後でエディタを通じて作業できるため、協業時にも非常に便利な機能です。特に、「機械翻訳機能を提供」するため、素早く翻訳を提供できます。
@@ -163,7 +163,7 @@ SvelteKitイニシャライザーを使用した場合、`/messages/{lang}.json`
 
 今、このセレクターを希望する位置に入れるだけで、言語変更が非常に簡単に動作します。
 
-![言語セレクターを適用した様子](/static/resources/apply-paraglidjs-20240918161625634.png)
+![言語セレクターを適用した様子](./assets/apply-paraglidjs-20240918161625634.png)
 
 > 言語セレクターをナビゲーションに入れました。
 

@@ -24,7 +24,7 @@ OSの初期化が必要で、初期設定されたOS以外に完全なクリー�
 
 インストール後には無線LANドライバーが基本的にインストールされると予想していましたが、予想に反して自分でインストールする必要がありました。
 
-![無線LANドライバーリスト](/static/resources/install-driver-for-lg-gram-20240826221737828.png)
+![無線LANドライバーリスト](./assets/install-driver-for-lg-gram-20240826221737828.png)
 
 > 無線LANドライバーをダウンロードしてドライバーをインストールしました。
 
@@ -37,7 +37,7 @@ OSの初期化が必要で、初期設定されたOS以外に完全なクリー�
 
 結局、残りのいくつかのドライバーのインストールを諦めようとしたところ、もう一度[LGダウンロードセンター](https://www.lge.co.jp/support/product-manuals)に行ってみると、専用の更新ツールが別にありました...
 
-![ダウンロードセンター画面](/static/resources/install-driver-for-lg-gram-20240826222611325.png)
+![ダウンロードセンター画面](./assets/install-driver-for-lg-gram-20240826222611325.png)
 
 > モデル名検索に目が行って見えなかった「LG Updateプログラム」が再び見えました...
 

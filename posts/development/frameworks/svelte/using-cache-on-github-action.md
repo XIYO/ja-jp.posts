@@ -19,17 +19,17 @@ GitHub Actionsを使用していると、ビルド速度が徐々に遅くなる
 
 ## ビルド速度の変化
 
-![初期のビルド速度は40秒未満](/static/resources/usging-cache-on-github-action-20240815232353052.png)
+![初期のビルド速度は40秒未満](./assets/usging-cache-on-github-action-20240815232353052.png)
 
 初期のビルド速度は40秒未満で非常に速かったです。しかし、時間が経つにつれてビルド時間が徐々に長くなり、特にMarkdownファイルにMermaidパーサーを追加した後はビルド時間が急激に増加しました。
 
-![遅くなったビルド速度は1分を超え、1分30秒に近づく](/static/resources/usging-cache-on-github-action-20240815232537900.png)
+![遅くなったビルド速度は1分を超え、1分30秒に近づく](./assets/usging-cache-on-github-action-20240815232537900.png)
 
 これは単にMermaid文法の問題だけではありません。私のブログはSvelteを使用してプリレンダリングを行っているため、初期ビルド時にすべてのMarkdownファイルをパースするための時間が必要でした。
 
 さらに、Markdownファイルにフロントマターを使用せず、GitHubでも正常に表示されることを望んでいたため、作成日や更新日などのメタデータを含めていませんでした。この部分を補うために`git log`コマンドを使用してデータを追加する作業を行った結果、CPU負荷が大きくなり、性能向上も難しくなりました。（ワーカーを分離すれば性能が改善されるかもしれませんが、まだ私のスキルでは簡単ではありません…）
 
-![単に依存関係をインストールするだけで30秒を使用](/static/resources/usging-cache-on-github-action-20240815233139668.png)
+![単に依存関係をインストールするだけで30秒を使用](./assets/usging-cache-on-github-action-20240815233139668.png)
 
 結局、ビルドの最適化のために、まずパッケージのインストール時間を短縮することに焦点を当てることにしました。
 
@@ -137,9 +137,9 @@ Node.jsモジュールのキャッシュは`actions/setup-node@v4`で提供さ�
 
 ## ビルド速度の変化
 
-![最適化されたビルド速度は1分10秒くらい...](/static/resources/usging-cache-on-github-action-20240816000140052.png)
+![最適化されたビルド速度は1分10秒くらい...](./assets/usging-cache-on-github-action-20240816000140052.png)
 
-![内部的な速度は50秒を超えない](/static/resources/usging-cache-on-github-action-20240816000251502.png)
+![内部的な速度は50秒を超えない](./assets/usging-cache-on-github-action-20240816000251502.png)
 
 ビルド速度は大幅に向上しませんでしたが、適切な最適化を通じてある程度満足できる結果を得ることができました。
 

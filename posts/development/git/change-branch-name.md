@@ -62,7 +62,7 @@ description: ローカルでプロジェクトをGitで管理するためにGit�
 
 GitHubでは、ウェブ上でブランチ名を変更することで、上記の手順を経る必要がありません。
 
-![ブランチ名を変更するメニューの位置](/static/resources/change-branch-name-20240918104226703.png)
+![ブランチ名を変更するメニューの位置](./assets/change-branch-name-20240918104226703.png)
 
 1. <https://github.com/オーナー名/ブランチ名/branches> ページに移動します。
 2. ハンバーガーメニューをクリックし、`Rename branch`をクリックします。
