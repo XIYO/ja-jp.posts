@@ -18,7 +18,7 @@ tags:
 
 > [!NOTE]
 > **事前要件**
-> このガイドを進める前に [Homebrew のインストール](step-00.md)が完了している必要があります。
+> このガイドを進める前に [Homebrew のインストール](step-00)が完了している必要があります。
 
 ## 必須ツールのインストール
 
@@ -87,12 +87,12 @@ brew install --cask font-pretendard
 
 ## 追加設定
 
-- **Git & GitHub CLI** → [Git & GitHub 設定ガイド](git-github-setup.md)
-- **JetBrains Toolbox** → [JetBrains 設定ガイド](jetbrains-setup.md)
-- **iTerm2 + Oh My Zsh** → [ターミナルカスタマイズガイド](terminal-customization.md)
+- **Git & GitHub CLI** → [Git & GitHub 設定ガイド](git-github-setup)
+- **JetBrains Toolbox** → [JetBrains 設定ガイド](jetbrains-setup)
+- **iTerm2 + Oh My Zsh** → [ターミナルカスタマイズガイド](terminal-customization)
 
 ## 次のステップ
 
 必須ツールのインストールが完了しました。
 
-[次のステップ：システムユーティリティのインストール](step-02.md)
+[次のステップ：システムユーティリティのインストール](step-02)

@@ -13,7 +13,7 @@ tags:
 このガイドでは、Dockerを使用してOracle Database Free Editionを迅速にインストールする方法を説明します。
 
 > [!INFO]
-> Oracle Databaseの概念とエディションの詳細については、[Oracle Database概念ガイド](oracle-database-concepts.md)を参照してください。
+> Oracle Databaseの概念とエディションの詳細については、[Oracle Database概念ガイド](oracle-database-concepts)を参照してください。
 
 ## 前提条件
 
@@ -33,7 +33,7 @@ tags:
 > ほとんどのContainer Registryはログイン後にイメージをダウンロードすることが原則です。
 > しかし、OracleはFree Editionを「客寄せ商品」として活用し、ログインなしでもダウンロードできるようにしています。
 > 
-> Container Registryの詳細については、[Oracle Database概念ガイド](oracle-database-concepts.md#container-registryとは)を参照してください。
+> Container Registryの詳細については、[Oracle Database概念ガイド](oracle-database-concepts)を参照してください。
 
 開発者向けの最新無料版であるOracle Database 23c Freeをダウンロードします。
 
@@ -77,7 +77,7 @@ docker run -d --name oracle-free -p 1521:1521 -p 5500:5500 -e ORACLE_PWD=oracle1
 > 
 > 接続文字列の例: `username/password@localhost:1521/FREEPDB1`
 > 
-> SID、Service Name、PDBなどのOracleの核心概念については、[Oracle Database概念ガイド](oracle-database-concepts.md#oracleの核心概念)を参照してください。
+> SID、Service Name、PDBなどのOracleの核心概念については、[Oracle Database概念ガイド](oracle-database-concepts)を参照してください。
 
 
 

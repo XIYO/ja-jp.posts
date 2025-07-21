@@ -26,7 +26,7 @@ tags: obsidian, sync, git, cloud, backup
 
 > [!IMPORTANT]
 > **事前準備が必要**
-> GitとGitHubの設定が必要です。[Git & GitHub設定ガイド](../mac-setup/git-github-setup.md)を先に完了してください。
+> GitとGitHubの設定が必要です。[Git & GitHub設定ガイド](../mac-setup/git-github-setup)を先に完了してください。
 
 ### Obsidian Gitプラグインのインストール
 
@@ -209,5 +209,5 @@ gh repo create obsidian-vault --private --source=. --remote=origin --push
 ## 次のステップ
 
 同期設定が完了したら：
-- [必須プラグインのインストール](step-02.md)
-- [高度な設定](step-03.md)
+- [必須プラグインのインストール](step-02)
+- [高度な設定](step-03)

@@ -40,15 +40,15 @@ description: '新しい国際化ライブラリの'
 HTML文書に言語に関する情報を追加で挿入するため、SEOとブラウザに最適化します。
 
 ```html
-<html lang="ko-KR" dir="ltr">
+<html lang="ko-kr" dir="ltr">
   <head>
-  <link rel="alternate" hreflang="ko-KR" href="http://localhost:5173/posts">
-  <link rel="alternate" hreflang="ja-JP" href="http://localhost:5173/ja-JP/posts">
-  <link rel="alternate" hreflang="en-US" href="http://localhost:5173/en-US/posts">
+  <link rel="alternate" hreflang="ko-kr" href="http://localhost:5173/posts">
+  <link rel="alternate" hreflang="ja-jp" href="http://localhost:5173/ja-jp/posts">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:5173/en-us/posts">
   </head>
 ```
 
-> `<html lang="ko-KR" dir="ltr">`の`lang`属性はブラウザが翻訳オプションの有効化を検討する属性です。`dir`属性はテキストの方向を制御する属性です。
+> `<html lang="ko-kr" dir="ltr">`の`lang`属性はブラウザが翻訳オプションの有効化を検討する属性です。`dir`属性はテキストの方向を制御する属性です。
 
 ## 適用方法
 
@@ -104,9 +104,9 @@ npm install
 SvelteKitイニシャライザーを使用した場合、`/messages/{lang}.json`に各言語に合ったファイルが生成されます。
 初期には一つの言語についてのみ作成し、エディタを利用して追加の翻訳を提供できます。
 
-`/messages/ko-KR.json`に文章追加
+`/messages/ko-kr.json`に文章追加
 
-```json data-title="ko-KR.json"
+```json data-title="ko-kr.json"
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",  
     "title": "イヨのホール",  

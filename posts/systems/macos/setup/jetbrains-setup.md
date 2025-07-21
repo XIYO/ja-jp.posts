@@ -250,4 +250,4 @@ idea .
 idea ~/projects/my-project
 ```
 
-[戻る](step-01.md)
+[戻る](step-01)
