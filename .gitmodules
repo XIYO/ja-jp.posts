@@ -1,6 +1,0 @@
-[submodule "static/ko-KR/posts"]
-	path = static/ko-KR/posts
-	url = https://github.com/XIYO/posts.git
-[submodule "static/ko-kr"]
-	path = static/ko-kr
-	url = https://github.com/XIYO/ko-kr.posts.git
