@@ -1,5 +1,5 @@
 ---
-title: Step 04
+title: 高度な設定
 authors:
   - XIYO
 dates:

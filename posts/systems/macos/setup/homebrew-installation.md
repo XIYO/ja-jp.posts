@@ -115,4 +115,4 @@ brew --version
 
 Homebrew のインストールが完了しました。
 
-[次のステップ：開発ツールのインストール](step-01)
+[次のステップ：開発ツールのインストール](essential-developer-tools)

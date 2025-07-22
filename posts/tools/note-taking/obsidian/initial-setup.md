@@ -1,5 +1,5 @@
 ---
-title: Step 00
+title: 初期設定
 authors:
   - XIYO
 dates:
@@ -217,4 +217,4 @@ Obsidianは開発者や長期的な知識管理が必要なユーザーに適し
 
 基本設定が完了したら：
 - [マークダウン基本機能](markdown-basics) - Mermaid、LaTeX、Calloutなど
-- [同期設定](step-01) - Git、Cloud、Obsidian Sync
+- [同期設定](sync-settings) - Git、Cloud、Obsidian Sync

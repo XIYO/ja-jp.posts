@@ -1,5 +1,5 @@
 ---
-title: Step 01
+title: 同期設定
 authors:
   - XIYO
 dates:
@@ -209,5 +209,7 @@ gh repo create obsidian-vault --private --source=. --remote=origin --push
 ## 次のステップ
 
 同期設定が完了したら：
+<!-- 
 - [必須プラグインのインストール](step-02)
 - [高度な設定](step-03)
+-->

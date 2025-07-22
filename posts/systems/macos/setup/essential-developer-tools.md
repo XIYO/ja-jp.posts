@@ -1,5 +1,5 @@
 ---
-title: Step 01
+title: 必須開発者ツール
 authors:
   - XIYO
 dates:
@@ -18,7 +18,7 @@ tags:
 
 > [!NOTE]
 > **事前要件**
-> このガイドを進める前に [Homebrew のインストール](step-00)が完了している必要があります。
+> このガイドを進める前に [Homebrew のインストール](homebrew-installation)が完了している必要があります。
 
 ## 必須ツールのインストール
 
@@ -95,4 +95,4 @@ brew install --cask font-pretendard
 
 必須ツールのインストールが完了しました。
 
-[次のステップ：システムユーティリティのインストール](step-02)
+[次のステップ：システムユーティリティのインストール](system-utilities)
