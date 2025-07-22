@@ -217,4 +217,4 @@ Obsidianは開発者や長期的な知識管理が必要なユーザーに適し
 
 基本設定が完了したら：
 - [マークダウン基本機能](markdown-basics) - Mermaid、LaTeX、Calloutなど
-- [同期設定](sync-settings) - Git、Cloud、Obsidian Sync
+- [同期設定](obsidian-step01-sync-settings) - Git、Cloud、Obsidian Sync

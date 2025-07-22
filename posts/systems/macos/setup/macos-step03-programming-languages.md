@@ -8,7 +8,7 @@ tags:
   - mac-setup
   - java
   - openjdk
-  - programming-languages
+  - macos-step03-programming-languages
   - intellij
 ---
 
@@ -16,7 +16,7 @@ tags:
 
 > [!NOTE]
 > **事前要件**
-> [Homebrew のインストール](homebrew-installation)が完了している必要があります。
+> [Homebrew のインストール](macos-step00-homebrew-installation)が完了している必要があります。
 
 ## Java インストールについてのアドバイス
 
@@ -71,4 +71,4 @@ OpenJDK 64-Bit Server VM Homebrew (build 21.x.x, mixed mode, sharing)
 
 必要なツールがすべて準備できました！macOS をより効率的に使うためのヒントを学びましょう。
 
-[次のステップ：macOS 便利技集](advanced-configurations)
+[次のステップ：macOS 便利技集](macos-step04-advanced-configurations)

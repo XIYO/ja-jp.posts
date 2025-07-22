@@ -18,7 +18,7 @@ tags:
 
 > [!NOTE]
 > **事前要件**
-> このガイドを進める前に [Homebrew のインストール](homebrew-installation)が完了している必要があります。
+> このガイドを進める前に [Homebrew のインストール](macos-step00-homebrew-installation)が完了している必要があります。
 
 ## 必須ツールのインストール
 
@@ -95,4 +95,4 @@ brew install --cask font-pretendard
 
 必須ツールのインストールが完了しました。
 
-[次のステップ：システムユーティリティのインストール](system-utilities)
+[次のステップ：システムユーティリティのインストール](macos-step02-system-utilities)

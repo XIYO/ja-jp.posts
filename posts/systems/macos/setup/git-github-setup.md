@@ -17,7 +17,7 @@ tags:
 
 > [!NOTE]
 > **事前要件**
-> [開発者必須ツールのインストール](essential-developer-tools)が完了している必要があります。
+> [開発者必須ツールのインストール](macos-step01-essential-developer-tools)が完了している必要があります。
 
 ## Git 基本設定
 
@@ -286,4 +286,4 @@ gh pr create
 gh issue list
 ```
 
-[戻る](essential-developer-tools)
+[戻る](macos-step01-essential-developer-tools)

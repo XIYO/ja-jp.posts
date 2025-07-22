@@ -115,4 +115,4 @@ brew --version
 
 Homebrew のインストールが完了しました。
 
-[次のステップ：開発ツールのインストール](essential-developer-tools)
+[次のステップ：開発ツールのインストール](macos-step01-essential-developer-tools)

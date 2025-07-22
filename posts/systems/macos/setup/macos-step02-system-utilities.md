@@ -18,7 +18,7 @@ tags:
 
 > [!NOTE]
 > **事前要件**
-> このガイドを進める前に [Homebrew のインストール](homebrew-installation)が完了している必要があります。
+> このガイドを進める前に [Homebrew のインストール](macos-step00-homebrew-installation)が完了している必要があります。
 
 ## 生産性ツールを一括インストール
 
@@ -108,4 +108,4 @@ echo "すべての生産性ツールのインストールが完了しました�
 
 システムユーティリティのインストールが完了しました。次はプログラミング言語別の開発環境を設定しましょう。
 
-[次のステップ：プログラミング言語のインストール](programming-languages)
+[次のステップ：プログラミング言語のインストール](macos-step03-programming-languages)
