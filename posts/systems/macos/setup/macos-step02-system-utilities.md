@@ -1,5 +1,6 @@
 ---
-title: システムユーティリティ
+title: "システムユーティリティのインストール"
+description: "Slack、Notion、Chrome、Rectangleなど生産性ツールとシステムユーティリティのインストール"
 authors:
   - XIYO
 dates:

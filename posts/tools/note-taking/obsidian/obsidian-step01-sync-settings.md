@@ -1,5 +1,6 @@
 ---
-title: 同期設定
+title: "Obsidian同期設定"
+description: "マルチデバイスアクセスのためのGit、iCloud、またはObsidian Syncの設定"
 authors:
   - XIYO
 dates:

@@ -1,5 +1,6 @@
 ---
-title: 高度な設定
+title: "macOS 便利技集"
+description: "開発者のためのmacOSのヒント、トリック、高度な設定"
 authors:
   - XIYO
 dates:

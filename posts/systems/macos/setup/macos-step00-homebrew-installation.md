@@ -1,5 +1,6 @@
 ---
-title: Step 00
+title: "Mac 初期設定ガイド"
+description: "Apple Silicon MacにHomebrewパッケージマネージャーをインストール - 開発環境構築の必須の第一歩"
 authors:
   - XIYO
 dates:
