@@ -1,10 +1,13 @@
 ---
-title: "Obsidian同期設定"
-description: "マルチデバイスアクセスのためのGit、iCloud、またはObsidian Syncの設定"
+title: Obsidian同期設定
+dates:
+  - "2025-07-22T16:09:36.000Z"
+  - "2025-07-22T15:41:04.000Z"
+  - "2025-07-22T15:27:31.000Z"
+  - "2025-07-21T19:25:28.000Z"
+  - "2025-07-21T17:44:37.000Z"
 authors:
   - XIYO
-dates:
-  - Thu Jul 17 2025 09:00:00 GMT+0900 (대한민국 표준시)
 tags: obsidian, sync, git, cloud, backup
 ---
 

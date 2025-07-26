@@ -1,10 +1,13 @@
 ---
-title: "開発者必須ツールのインストール"
-description: "Git、Docker、VS Code、iTerm2などmacOS必須開発ツールのインストール"
+title: 開発者必須ツールのインストール
+dates:
+  - "2025-07-22T16:09:36.000Z"
+  - "2025-07-22T15:41:04.000Z"
+  - "2025-07-22T15:27:31.000Z"
+  - "2025-07-21T19:25:28.000Z"
+  - "2025-07-21T17:44:37.000Z"
 authors:
   - XIYO
-dates:
-  - Thu Jul 17 2025 09:00:00 GMT+0900 (대한민국 표준시)
 tags:
   - mac-setup
   - developer-tools

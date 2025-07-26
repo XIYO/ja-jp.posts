@@ -1,12 +1,11 @@
 ---
 title: コールアウトテスト
-description: rehype-callouts Obsidianテーマテスト
+dates:
+  - "2025-07-21T17:33:03.000Z"
 authors:
   - XIYO
-dates:
-  - '2025-07-20T12:00:00.000Z'
-created: '2025-07-20T12:00:00.000Z'
-modified: '2025-07-20T12:00:00.000Z'
+created: "2025-07-20T12:00:00.000Z"
+modified: "2025-07-20T12:00:00.000Z"
 ---
 
 # コールアウトテスト

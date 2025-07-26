@@ -1,5 +1,9 @@
 ---
-title: Oracle Container Access Guide
+title: Oracleコンテナ接続ガイド
+dates:
+  - "2025-07-21T17:44:37.000Z"
+authors:
+  - XIYO
 tags:
   - docker
   - oracle

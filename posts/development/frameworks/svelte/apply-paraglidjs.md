@@ -1,12 +1,14 @@
 ---
+title: Paraglide JS 適用記
+description: 新しい国際化ライブラリである**Paraglide JS**をプロジェクトに適用した経験を共有します。
+dates:
+  - "2025-07-21T19:25:28.000Z"
+  - "2025-07-21T16:57:19.000Z"
+  - "2025-07-21T16:33:12.000Z"
+  - "2025-07-13T06:54:45.000Z"
 authors:
   - XIYO
-dates:
-  - '2024-09-18T17:12+0900'
-messages:
-  - ':memo: Paraglide JS 適用記'
-title: Paraglide JS 適用記
-description: '新しい国際化ライブラリの'
+  - xiyo
 ---
 # Paraglide JS 適用記
 

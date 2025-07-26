@@ -1,30 +1,13 @@
 ---
+title: Svelteの非同期処理サポート
+description: Svelte 5の非同期処理改善：SvelteKitの既存方式との比較ドキュメントです。
+dates:
+  - "2025-07-21T16:57:19.000Z"
+  - "2025-07-21T16:33:12.000Z"
+  - "2025-07-13T06:54:45.000Z"
 authors:
   - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - '2025-05-26T12:36+0900'
-  - '2025-05-26T12:35+0900'
-  - '2025-05-25T22:53+0900'
-  - '2025-05-25T22:37+0900'
-  - '2025-05-25T22:36+0900'
-  - '2025-05-25T22:34+0900'
-  - '2025-05-25T22:33+0900'
-messages:
-  - ':zap: Svelte 5の非同期呼び出し自動並列化最適化（パフォーマンス向上）'
-  - ':zap: Svelte 5の非同期処理自動並列化機能追加（パフォーマンス最適化と開発者の利便性向上）'
-  - ':art: svelte-async.mdドキュメントの内容修正と改善事項追加'
-  - ':art: svelte-async.mdドキュメントのタイトル修正と内容追加'
-  - ':art: svelte-async.mdドキュメントで<script>領域のawait使用に関する説明修正'
-  - ':memo: Svelteの非同期'
-  - ':memo: Svelteの非同期'
-title: Svelteの非同期処理サポート
-description: 'Svelte 5の非同期処理改善：SvelteKitの既存方式との比較ドキュメントです。'
+  - xiyo
 ---
 # Svelteの非同期処理サポート
 

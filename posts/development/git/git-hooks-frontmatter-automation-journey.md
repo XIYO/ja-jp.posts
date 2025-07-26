@@ -1,3 +1,10 @@
+---
+title: Git Hooksによるマークダウンフロントマター自動化への道のり
+dates:
+  - "2025-07-21T17:44:37.000Z"
+authors:
+  - XIYO
+---
 # Git Hooksによるマークダウンフロントマター自動化への道のり
 
 ## 序: 問題の始まり - Pre-commit Hookの限界
