@@ -10,6 +10,7 @@ dates:
   - "2024-09-07T10:43:12.000Z"
 authors:
   - XIYO
+lastModified: 2025-07-26T11:55:48+09:00
 ---
 # JavaScriptでの型の使用
 

@@ -8,6 +8,7 @@ dates:
 authors:
   - XIYO
   - xiyo
+lastModified: 2025-07-26T11:55:48+09:00
 ---
 # クラスの静的初期化
 

@@ -9,6 +9,7 @@ dates:
 authors:
   - XIYO
   - xiyo
+lastModified: 2025-07-26T11:55:48+09:00
 ---
 # ACME証明書発行の自動化（ASUS AC88Uルーター）
 

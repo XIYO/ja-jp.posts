@@ -9,6 +9,7 @@ tags:
   - tools
   - critical-review
 published: 2025-01-26
+lastModified: 2025-07-26T22:32:05+09:00
 ---
 
 # Obsidianの実態：過大評価されたMarkdownエディタの批判的分析

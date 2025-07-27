@@ -14,6 +14,7 @@ tags:
   - homebrew
   - apple-silicon
   - getting-started
+lastModified: 2025-07-26T11:55:48+09:00
 ---
 
 # Mac 初期設定ガイド
