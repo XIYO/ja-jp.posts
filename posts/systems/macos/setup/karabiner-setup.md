@@ -3,8 +3,6 @@ title: Karabiner-Elements 設定ガイド
 description: >-
   Karabiner-Elements は macOS のキーボード動作を自由にカスタマイズできる強力なツールです。このガイドでは最も便利な 3
   つの設定を扱います。
-dates:
-  - "2025-07-21T17:44:37.000Z"
 authors:
   - XIYO
 tags:
@@ -12,7 +10,8 @@ tags:
   - karabiner
   - keyboard
   - productivity
-lastModified: 2025-07-26T11:55:48+09:00
+lastModified: 2025-07-27T21:08:42+09:00
+published: 2025-07-22T02:44:45+09:00
 ---
 
 # Karabiner-Elements 設定ガイド

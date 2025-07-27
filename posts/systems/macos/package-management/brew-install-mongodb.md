@@ -3,16 +3,10 @@ title: BREW INSTALL MONGODB
 description: >-
   `intel`、`macOS 14.0`、`sonoma` 環境で `brew 4.1.14` を使用して `mongoDB`
   をインストールする手順をまとめます。
-dates:
-  - "2025-07-21T16:59:45.000Z"
-  - "2025-07-21T16:57:19.000Z"
-  - "2025-07-21T16:33:12.000Z"
-  - "2025-06-15T06:10:59.000Z"
-  - "2024-09-08T03:40:36.000Z"
-  - "2024-09-07T10:43:12.000Z"
 authors:
   - XIYO
-lastModified: 2025-07-26T11:55:48+09:00
+lastModified: 2025-07-27T21:08:42+09:00
+published: 2025-07-22T01:59:45+09:00
 ---
 # BREW INSTALL MONGODB
 

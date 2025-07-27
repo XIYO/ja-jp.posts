@@ -1,10 +1,5 @@
 ---
 title: macOS 便利技集
-dates:
-  - "2025-07-22T16:09:36.000Z"
-  - "2025-07-22T15:41:04.000Z"
-  - "2025-07-22T15:27:31.000Z"
-  - "2025-07-21T17:44:37.000Z"
 authors:
   - XIYO
 tags:
@@ -14,7 +9,8 @@ tags:
   - productivity
   - screenshot
   - spotlight
-lastModified: 2025-07-26T11:55:48+09:00
+lastModified: 2025-07-27T21:08:42+09:00
+published: 2025-07-23T00:41:04+09:00
 ---
 
 # macOS 便利技集

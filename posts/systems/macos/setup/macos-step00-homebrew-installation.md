@@ -1,12 +1,6 @@
 ---
 title: Mac 初期設定ガイド
 description: このガイドは Apple Silicon Mac 向けの開発環境設定ドキュメントです。Intel Mac の設定方法は扱いません。
-dates:
-  - "2025-07-22T16:09:36.000Z"
-  - "2025-07-22T15:41:04.000Z"
-  - "2025-07-22T15:27:31.000Z"
-  - "2025-07-21T19:25:28.000Z"
-  - "2025-07-21T17:44:37.000Z"
 authors:
   - XIYO
 tags:
@@ -14,7 +8,8 @@ tags:
   - homebrew
   - apple-silicon
   - getting-started
-lastModified: 2025-07-26T11:55:48+09:00
+lastModified: 2025-07-27T21:08:42+09:00
+published: 2025-07-23T00:41:04+09:00
 ---
 
 # Mac 初期設定ガイド

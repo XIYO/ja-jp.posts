@@ -1,10 +1,9 @@
 ---
 title: Git Hooksによるマークダウンフロントマター自動化への道のり
-dates:
-  - "2025-07-21T17:44:37.000Z"
 authors:
   - XIYO
-lastModified: 2025-07-26T11:55:48+09:00
+lastModified: 2025-07-27T21:08:42+09:00
+published: 2025-07-22T02:44:45+09:00
 ---
 # Git Hooksによるマークダウンフロントマター自動化への道のり
 
@@ -199,13 +198,12 @@ title: 新機能
 description: 今回追加した革新的な機能です
 authors:
   - XIYO
-dates:
-  - '2025-07-20T09:40:48.024Z'
 messages:
   - '✨ 新機能追加'  # 自動的に含まれる！
 created: '2025-07-20T09:40:48.024Z'
 modified: '2025-07-20T09:40:48.024Z'
-lastModified: 2025-07-26T11:55:48+09:00
+lastModified: 2025-07-27T21:08:42+09:00
+published: 2025-07-22T02:44:45+09:00
 ---
 
 # 新機能
