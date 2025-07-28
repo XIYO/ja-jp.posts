@@ -34,9 +34,19 @@ graph TD
     A --> Y[ライブラリ Y v2.0]
     Y --> X2[ライブラリ X v1.3]
     
-    style X1 fill:#ffcccc
-    style X2 fill:#ffcccc
-    style Y fill:#ccffcc
+    %% Solarized ベースのスタイル定義
+    classDef conflict fill:#d30102,stroke:#cb4b16,stroke-width:2px,color:#fdf6e3
+    classDef success fill:#859900,stroke:#2aa198,stroke-width:2px,color:#fdf6e3
+    classDef default fill:#073642,stroke:#586e75,stroke-width:1px,color:#839496
+    
+    class X1,X2 conflict
+    class Y success
+    class A default
+    
+    %% リンクスタイル定義
+    linkStyle 0 stroke:#cb4b16,stroke-width:2px
+    linkStyle 1 stroke:#859900,stroke-width:2px
+    linkStyle 2 stroke:#cb4b16,stroke-width:2px
 ```
 
 このような状況でライブラリ X のバージョン競合を解決するには、各バージョン間の互換性を一つ一つ確認する必要がありました。バージョン番号だけでは互換性を判断できなかったからです。
