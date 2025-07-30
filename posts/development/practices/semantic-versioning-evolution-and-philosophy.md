@@ -2,9 +2,39 @@
 title: "セマンティックバージョニングの誕生と進化：ソフトウェアバージョン管理の哲学"
 description: "セマンティックバージョニングが誕生する前の無秩序だったバージョン管理の歴史から、現在の各プラットフォーム別バージョニング文化の違いまで、概念的かつ歴史的な観点から見るバージョン管理戦略"
 published: 2025-07-27T00:00:00Z
-lastModified: 2025-07-27T14:28:39Z
+lastModified: 2025-07-30T14:00:01Z
 authors:
   - XIYO
+tags:
+  - semantic-versioning
+  - semver
+  - version-control
+  - software-versioning
+  - dependency-management
+  - package-management
+  - npm
+  - maven
+  - pip
+  - pypi
+  - rubygems
+  - cargo
+  - go-modules
+  - best-practices
+  - breaking-changes
+  - backward-compatibility
+  - api-versioning
+  - release-management
+  - pre-release
+  - alpha
+  - beta
+  - release-candidate
+  - snapshot
+  - calver
+  - pep-440
+  - dependency-hell
+  - software-development
+  - version-management
+  - software-architecture
 ---
 
 # セマンティックバージョニングの誕生と進化：ソフトウェアバージョン管理の哲学

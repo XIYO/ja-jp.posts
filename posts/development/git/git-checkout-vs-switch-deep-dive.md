@@ -2,9 +2,25 @@
 title: "Git Checkout vs Switch: なぜ新しいコマンドが必要だったのか？"
 description: "Git 2.23で導入されたswitchとrestoreコマンドの誕生背景とcheckoutとの違い、そしてIntelliJがなぜ今でもcheckoutを使い続けているのかについての詳細な分析"
 published: 2025-07-28T00:00:00Z
-lastModified: 2025-07-28T03:08:17Z
+lastModified: 2025-07-30T14:00:01Z
 authors:
   - XIYO
+tags:
+  - git
+  - git-checkout
+  - git-switch
+  - git-restore
+  - version-control
+  - git-commands
+  - git-best-practices
+  - development-tools
+  - IntelliJ
+  - IDE
+  - git-2.23
+  - detached-head
+  - branch-management
+  - file-restoration
+  - developer-experience
 ---
 
 # Git Checkout vs Switch: なぜ新しいコマンドが必要だったのか？
