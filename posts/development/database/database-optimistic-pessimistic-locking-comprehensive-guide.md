@@ -1,5 +1,10 @@
 ---
-lastModified: 2025-07-31T15:08:25Z
+title: "データベースロッキングの進化：悲観的ロックから楽観的ロックまで"
+description: "1970年代のIBM System Rから現在までの50年間にわたるデータベースロッキング技術の進化を探求し、悲観的ロックと楽観的ロックの違い、パフォーマンス特性、実務適用ガイドを提供します。"
+tags: ["database", "concurrency", "pessimistic-lock", "optimistic-lock", "performance", "architecture"]
+authors: ["gimtaehui"]
+published: 2025-08-01T09:00:00+09:00
+lastModified: 2025-07-31T15:16:17Z
 ---
 
 # データベースロッキングの進化：悲観的ロックから楽観的ロックまで
